@@ -56,6 +56,6 @@ intégration continue dès que vous avez créer votre premier scenario et créer
 - Selon votre avancement, et votre aisance technique, vous pouvez ajouter en plus un projet console à votre solution qui utilisera votre librairie en conditions « réelles » : récupération des données utilisateurs, appels à votre librairie et affichage des résultats.
 Attention dans cas à votre architecture, le code de cette application console ne doit contenir aucune logique hormis celle nécessaire à la mise en oeuvre de votre librairie.
 
-Livrables
+# Livrables
 - Un lien vers un repo Git contenant : Vos projets de tests et code de production
 - Un lien vers votre intégration continue Azur Devops
