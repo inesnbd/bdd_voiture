@@ -1,7 +1,6 @@
-# bdd_voiture
-projet bdd - location de vehicules 
+# projet bdd - location de vehicules 
 
-Enoncé
+# Enoncé
 Votre équipe de développement vient de se voir commandé le développement d’une API permettant de gérer une centrale de réservation de véhicule.
 Le Product Owner (PO) de l’équipe a déjà réalisé le recueil des besoins et défini les différentes règles métiers.
 
@@ -15,7 +14,7 @@ Cas d’utilisation :
 • La réservation est créée
 • Lorsque le client rend la voiture, la facture avec le prix final est générée
 
-Description des objets :
+# Description des objets :
 
 Véhicule
 - Un véhicule est représenté par une immatriculation unique
@@ -40,7 +39,7 @@ Réservation
 - Lors de la réservation, le client doit estimer le nombre de km qu’il compte faire. Le prix de location est calculé en fonction de cette estimation. Bien entendu si cette estimation est dépassée ou surestimé un réajustement est effectué lors du rendu de véhicule
 - Le prix d’une location est le suivant : prix de base + prix au km * nb de km
 
-Travail demandé
+# Travail demandé
 
 1- En vous basant sur ces règles métiers, vous allez devoir créer les scénarios Gherkin correspondants, puis implémenter les tests et le code de production correspondant en respectant le cycle BDD.
 Pour simplifier l’implémentation, et car ce n’est pas le but premier du module, nous n’utiliserons pas de base de données.
@@ -52,7 +51,7 @@ Pour plus de lisibilité, vous pouvez organiser vos scenarios en utilisant plusi
 2- En vous basant sur le document fourni en annexe, créer un pipeline dans Azure Devops afin de compiler votre solution et lancer les tests et générer la Living Documentation. Je vous conseille de mettre en place cette
 intégration continue dès que vous avez créer votre premier scenario et créer votre repo Git
 
-Important :
+# Important :
 - Comme pour les TPs précédents, pour simplifier la mise en oeuvre nous travaillerons avec des projets de type libraires .Net Core sans affichage dans un premier temps.
 - Selon votre avancement, et votre aisance technique, vous pouvez ajouter en plus un projet console à votre solution qui utilisera votre librairie en conditions « réelles » : récupération des données utilisateurs, appels à votre librairie et affichage des résultats.
 Attention dans cas à votre architecture, le code de cette application console ne doit contenir aucune logique hormis celle nécessaire à la mise en oeuvre de votre librairie.
