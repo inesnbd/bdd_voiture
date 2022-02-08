@@ -7,12 +7,12 @@ Le Product Owner (PO) de l’équipe a déjà réalisé le recueil des besoins e
 Règles métiers :
 
 Cas d’utilisation :
-• Le client s’identifie ou créer un compte
-• Le client rentre la date de début et la date de fin de la location qu’il souhaite effectuer
-• La liste des véhicules disponibles est présentée au client
-• Le client sélectionne une voiture parmi la liste fournie
-• La réservation est créée
-• Lorsque le client rend la voiture, la facture avec le prix final est générée
+- Le client s’identifie ou créer un compte
+- Le client rentre la date de début et la date de fin de la location qu’il souhaite effectuer
+- La liste des véhicules disponibles est présentée au client
+- Le client sélectionne une voiture parmi la liste fournie
+- La réservation est créée
+- Lorsque le client rend la voiture, la facture avec le prix final est générée
 
 # Description des objets :
 
