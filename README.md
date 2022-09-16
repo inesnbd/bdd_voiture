@@ -1,4 +1,4 @@
-# projet bdd - location de vehicules 
+# projet Behavior Driven Developpement - location de vehicules 
 
 # Enoncé
 Votre équipe de développement vient de se voir commandé le développement d’une API permettant de gérer une centrale de réservation de véhicule.
